@@ -1,4 +1,4 @@
-# Análise de Cancelamento de Clientes
+# Análise de Cancelamento de Clientes 📊
 
 Projeto desenvolvido durante o evento Jornada Python, com foco em análise de dados para identificar e reduzir o cancelamento de clientes em uma empresa.
 
