@@ -7,7 +7,7 @@ Projeto desenvolvido durante o evento Jornada Python, com foco em análise de da
 Analisar uma base de dados real para entender o comportamento dos clientes, identificar os principais motivos de cancelamento e propor soluções baseadas em dados para melhorar a retenção.
 
 ## Tecnologias 🛠️ 
-Python 3.x
+Python
 
 Pandas
 
